@@ -1,0 +1,301 @@
+ticket_id,customer_id,complaint
+2001,359,Wrong item delivered
+2002,380,Damaged product
+2003,308,Damaged product
+2004,221,Order delayed
+2005,308,Payment failed
+2006,420,Wrong item delivered
+2007,124,Refund request
+2008,422,Order delayed
+2009,231,Payment failed
+2010,178,Refund request
+2011,63,Damaged product
+2012,485,Damaged product
+2013,116,Refund request
+2014,191,Order delayed
+2015,62,Damaged product
+2016,256,Wrong item delivered
+2017,483,Refund request
+2018,7,Refund request
+2019,155,Damaged product
+2020,92,Order delayed
+2021,470,Wrong item delivered
+2022,14,Order delayed
+2023,455,Payment failed
+2024,229,Payment failed
+2025,86,Damaged product
+2026,133,Damaged product
+2027,183,Damaged product
+2028,386,Payment failed
+2029,62,Order delayed
+2030,219,Order delayed
+2031,405,Damaged product
+2032,246,Wrong item delivered
+2033,230,Order delayed
+2034,79,Payment failed
+2035,149,Refund request
+2036,138,Refund request
+2037,471,Refund request
+2038,314,Wrong item delivered
+2039,376,Damaged product
+2040,423,Payment failed
+2041,389,Wrong item delivered
+2042,65,Payment failed
+2043,13,Payment failed
+2044,213,Damaged product
+2045,474,Refund request
+2046,242,Damaged product
+2047,493,Wrong item delivered
+2048,213,Wrong item delivered
+2049,181,Wrong item delivered
+2050,338,Damaged product
+2051,485,Payment failed
+2052,173,Payment failed
+2053,160,Order delayed
+2054,164,Wrong item delivered
+2055,465,Payment failed
+2056,483,Order delayed
+2057,497,Payment failed
+2058,188,Wrong item delivered
+2059,395,Refund request
+2060,191,Wrong item delivered
+2061,405,Damaged product
+2062,308,Payment failed
+2063,256,Payment failed
+2064,183,Damaged product
+2065,117,Damaged product
+2066,282,Refund request
+2067,196,Payment failed
+2068,34,Payment failed
+2069,52,Refund request
+2070,112,Order delayed
+2071,252,Refund request
+2072,82,Wrong item delivered
+2073,232,Payment failed
+2074,227,Damaged product
+2075,233,Wrong item delivered
+2076,221,Payment failed
+2077,436,Refund request
+2078,413,Wrong item delivered
+2079,422,Payment failed
+2080,42,Order delayed
+2081,21,Order delayed
+2082,42,Damaged product
+2083,397,Payment failed
+2084,113,Order delayed
+2085,105,Refund request
+2086,192,Payment failed
+2087,17,Refund request
+2088,120,Refund request
+2089,393,Order delayed
+2090,425,Payment failed
+2091,129,Wrong item delivered
+2092,130,Order delayed
+2093,60,Order delayed
+2094,48,Payment failed
+2095,29,Payment failed
+2096,97,Refund request
+2097,10,Payment failed
+2098,242,Refund request
+2099,314,Order delayed
+2100,444,Damaged product
+2101,232,Wrong item delivered
+2102,277,Order delayed
+2103,284,Payment failed
+2104,203,Wrong item delivered
+2105,247,Damaged product
+2106,290,Damaged product
+2107,264,Refund request
+2108,443,Wrong item delivered
+2109,214,Refund request
+2110,200,Order delayed
+2111,433,Wrong item delivered
+2112,79,Order delayed
+2113,401,Refund request
+2114,444,Wrong item delivered
+2115,343,Refund request
+2116,344,Wrong item delivered
+2117,173,Refund request
+2118,467,Damaged product
+2119,69,Refund request
+2120,416,Damaged product
+2121,428,Refund request
+2122,449,Wrong item delivered
+2123,87,Wrong item delivered
+2124,101,Wrong item delivered
+2125,8,Payment failed
+2126,333,Order delayed
+2127,200,Wrong item delivered
+2128,87,Damaged product
+2129,43,Wrong item delivered
+2130,385,Payment failed
+2131,109,Damaged product
+2132,435,Payment failed
+2133,408,Damaged product
+2134,483,Refund request
+2135,152,Order delayed
+2136,17,Order delayed
+2137,133,Payment failed
+2138,148,Order delayed
+2139,277,Payment failed
+2140,232,Payment failed
+2141,314,Payment failed
+2142,415,Order delayed
+2143,366,Payment failed
+2144,228,Order delayed
+2145,139,Payment failed
+2146,436,Wrong item delivered
+2147,399,Payment failed
+2148,211,Damaged product
+2149,391,Payment failed
+2150,499,Refund request
+2151,28,Payment failed
+2152,51,Damaged product
+2153,491,Damaged product
+2154,442,Order delayed
+2155,261,Wrong item delivered
+2156,261,Payment failed
+2157,350,Order delayed
+2158,352,Wrong item delivered
+2159,8,Payment failed
+2160,320,Refund request
+2161,138,Payment failed
+2162,38,Damaged product
+2163,111,Damaged product
+2164,480,Refund request
+2165,368,Order delayed
+2166,220,Wrong item delivered
+2167,337,Payment failed
+2168,223,Damaged product
+2169,136,Order delayed
+2170,256,Refund request
+2171,360,Damaged product
+2172,409,Refund request
+2173,329,Payment failed
+2174,450,Wrong item delivered
+2175,463,Damaged product
+2176,434,Damaged product
+2177,451,Payment failed
+2178,49,Order delayed
+2179,292,Wrong item delivered
+2180,382,Damaged product
+2181,324,Wrong item delivered
+2182,78,Damaged product
+2183,105,Wrong item delivered
+2184,169,Refund request
+2185,217,Damaged product
+2186,378,Wrong item delivered
+2187,119,Order delayed
+2188,190,Refund request
+2189,255,Refund request
+2190,370,Order delayed
+2191,266,Wrong item delivered
+2192,149,Payment failed
+2193,164,Order delayed
+2194,140,Wrong item delivered
+2195,347,Order delayed
+2196,488,Order delayed
+2197,258,Damaged product
+2198,374,Wrong item delivered
+2199,269,Payment failed
+2200,181,Damaged product
+2201,160,Order delayed
+2202,351,Order delayed
+2203,400,Order delayed
+2204,288,Wrong item delivered
+2205,288,Wrong item delivered
+2206,380,Damaged product
+2207,226,Payment failed
+2208,11,Damaged product
+2209,10,Refund request
+2210,271,Order delayed
+2211,273,Order delayed
+2212,424,Order delayed
+2213,402,Damaged product
+2214,183,Damaged product
+2215,457,Order delayed
+2216,153,Damaged product
+2217,488,Wrong item delivered
+2218,315,Wrong item delivered
+2219,334,Damaged product
+2220,124,Order delayed
+2221,473,Damaged product
+2222,114,Damaged product
+2223,278,Damaged product
+2224,500,Refund request
+2225,414,Wrong item delivered
+2226,468,Payment failed
+2227,213,Payment failed
+2228,172,Refund request
+2229,288,Damaged product
+2230,435,Refund request
+2231,174,Refund request
+2232,113,Order delayed
+2233,376,Wrong item delivered
+2234,405,Payment failed
+2235,483,Damaged product
+2236,122,Payment failed
+2237,32,Payment failed
+2238,222,Wrong item delivered
+2239,119,Payment failed
+2240,39,Payment failed
+2241,497,Refund request
+2242,268,Wrong item delivered
+2243,233,Order delayed
+2244,431,Damaged product
+2245,18,Payment failed
+2246,149,Damaged product
+2247,397,Order delayed
+2248,149,Damaged product
+2249,126,Order delayed
+2250,392,Refund request
+2251,302,Payment failed
+2252,360,Order delayed
+2253,238,Damaged product
+2254,135,Payment failed
+2255,151,Refund request
+2256,236,Payment failed
+2257,224,Order delayed
+2258,203,Refund request
+2259,256,Damaged product
+2260,86,Refund request
+2261,150,Refund request
+2262,235,Wrong item delivered
+2263,345,Refund request
+2264,22,Refund request
+2265,348,Payment failed
+2266,285,Damaged product
+2267,269,Payment failed
+2268,466,Payment failed
+2269,258,Order delayed
+2270,29,Payment failed
+2271,213,Wrong item delivered
+2272,463,Wrong item delivered
+2273,436,Order delayed
+2274,283,Damaged product
+2275,50,Damaged product
+2276,95,Payment failed
+2277,463,Payment failed
+2278,499,Payment failed
+2279,407,Damaged product
+2280,88,Refund request
+2281,44,Wrong item delivered
+2282,461,Refund request
+2283,278,Refund request
+2284,171,Damaged product
+2285,421,Refund request
+2286,189,Order delayed
+2287,353,Payment failed
+2288,184,Order delayed
+2289,3,Wrong item delivered
+2290,191,Payment failed
+2291,118,Refund request
+2292,19,Wrong item delivered
+2293,23,Payment failed
+2294,413,Refund request
+2295,30,Order delayed
+2296,295,Payment failed
+2297,108,Refund request
+2298,367,Order delayed
+2299,281,Wrong item delivered
+2300,128,Wrong item delivered

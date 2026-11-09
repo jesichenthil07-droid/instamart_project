@@ -1,0 +1,5 @@
+policy_id,policy_name,policy_text
+1,Refund,Refunds take 5-7 business days.
+2,Cancellation,Orders can be cancelled before dispatch.
+3,Delivery,Delivery depends on customer location.
+4,Replacement,Damaged products may qualify for replacement.
